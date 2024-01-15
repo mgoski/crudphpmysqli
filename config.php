@@ -1,3 +1,3 @@
 <?php
-$koneksi=mysqli_connect("localhost","root","","ingat");
+$koneksi=mysqli_connect("localhost","root","","latihancrud");
 ?>
